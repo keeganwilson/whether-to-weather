@@ -1,0 +1,8 @@
+.title {
+  background-color: skyblue;
+  font-size: 48px;
+  padding: 20px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
